@@ -5,3 +5,5 @@ Spring DataJPA
 RestRepositories
 Lombok
 MySql Driver
+
+And then I configure the application.properties file
